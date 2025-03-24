@@ -1,0 +1,77 @@
+1. Sales Performance Analysis:
+
+	How do sales vary across different outlet types (supermarkets)?
+
+	Which outlet size has the highest average sales?
+
+
+2. Item Category Insights:
+
+	Which item types (Foods, Drinks etc.) generate the highest sales?
+
+	How does the fat content of products affect its sales performance?
+
+
+3. Regional Sales Trends:
+
+	How do sales differ across different outlet location types (Tier 1, Tier 2, Tier 3)?
+
+	Can we identify any location-specific sales patterns?
+
+
+4. Yearly Trends:
+
+	What is the sales trend over the years since the outlet was established?
+
+	How does sales performance vary by the outlet's establishment year?
+
+
+5. Customer Rating vs. Sales:
+
+	How do customer ratings correlate with sales?
+
+	Are there any particular item types with high ratings that also see high sales?
+
+
+6. Sales by Fat Content:
+
+	Is there a correlation between item fat content and its sales across different item categories?
+
+
+7. Outlet Comparison:
+
+	Which outlets have the highest total sales, and what are the key factors driving this (location, size, item types sold)?
+		= The medium size outlets have highest sales. having highest sales in Tier 3 city's, most sale product are fruits and vaggies
+
+
+8. Top Selling Products:
+
+	What are the top 10 selling items based on total sales?
+
+	What characteristics do these items share (e.g., item type, fat content)?
+
+
+9. Sales Forecasting:
+
+	Using historical sales data, forecast future sales for the next 3 months.
+
+	How accurate is the sales forecast for the next quarter?
+
+
+10. Sales by Rating and Outlet Type:
+
+	How do sales and customer ratings vary by outlet type?
+
+	Is there any outlet type where high-rated products consistently perform better in terms of sales?
+
+
+11. Outlier Detection:
+
+	Are there any significant outliers in sales data? If yes, what could be the reason behind it?
+
+	Which outlets or items are performing unusually high or low compared to the average?
+
+
+12. Item Performance by Outlet Size:
+
+	How do different item types perform in different outlet sizes (small, medium, high)?
